@@ -2,7 +2,7 @@
 
 Aspiring Web Developer & AWS Professional
 
-🔭 I’m currently upskilling myself as Junior Developer @ CloudZA (https://cloudza.io/)
+🔭 I’m am currently Junior Developer
 
 🌱 I’m currently improving my Amazon Web Services (AWS) knowledge and skills
 
